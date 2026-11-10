@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou a Graziele Otoni 👋
 
-<!--
-**grazi126/grazi126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst** e estudante de **Engenharia Civil**. Trabalho onde dados e obra se encontram:
+crio sistemas e dashboards que tiram o controle de obras do papel e das planilhas.
 
-Here are some ideas to get you started:
+## 🏗️ Projetos em destaque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### AppGontijo — Gontijo Fundações
+Sistema interno que reúne num lugar só o controle das obras, os diários, as medições e o
+faturamento, além de CRM, RH e segurança. Tem também um app de celular em que os operadores
+preenchem o diário de obra direto no campo.
+
+### Diários Geoteste — Geoteste
+Sistema para registrar os diários de obra dos ensaios (como PIT), com cadastro de clientes e
+obras e uma Central de Aprovação para programar os contratos. Inclui o Portal do Cliente, onde
+o cliente acompanha e assina eletronicamente os diários da obra dele.
+
+> Os dois são projetos privados de empresas, então o código não é público.
+
+## 🛠️ Tecnologias
+**Dados:** Power BI · Power Query · Excel avançado · SQL  
+**Desenvolvimento:** JavaScript · Node.js · Express · Supabase (PostgreSQL) · AWS S3 · Docker · HTML/CSS
