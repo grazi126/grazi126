@@ -5,7 +5,7 @@ crio sistemas e dashboards que tiram o controle de obras do papel e das planilha
 
 ## 🏗️ Projeto em destaque
 
-### Gestão de Obras Gontijo — Gontijo Fundações
+### Margem de Obras 
 Sistema interno para acompanhar o resultado de cada obra. Ele junta custos (diesel, fretes,
 hospedagens, passagens, alimentação, manutenção de equipamentos e rateio de custos fixos) e
 medições, e mostra a rentabilidade por obra e por equipamento.
